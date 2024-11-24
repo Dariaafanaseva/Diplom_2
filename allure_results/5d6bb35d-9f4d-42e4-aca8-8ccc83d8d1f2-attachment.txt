@@ -1,0 +1,3 @@
+Create user response: {"success":true,"user":{"email":"svirrg@lbfiu.ru","name":"wlhbjo"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3NjZkOWVkMjgwMDAxYjUxYzFkNCIsImlhdCI6MTczMjQ3NDQ3NywiZXhwIjoxNzMyNDc1Njc3fQ.RdiQjZ7q0DB1jevX3AmWXsm3jBNyn9oqrl61i9Tv0uM","refreshToken":"7a2c6ea8906df49d0e9e41718d834105eec233275e5df8e7953f0d7b5255d04f6c246a5f2693f81c"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+Пользователь успешно удален

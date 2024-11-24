@@ -1,0 +1,4 @@
+Create user response: {"success":true,"user":{"email":"nkyrjs@gydzu.ru","name":"typprl"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3NjU5OWVkMjgwMDAxYjUxYzFjZCIsImlhdCI6MTczMjQ3NDQ1NywiZXhwIjoxNzMyNDc1NjU3fQ.B1I7HAdahLpeZjpC6y2zE7W3Oze32BI-Rj8qVJpJMXg","refreshToken":"c1cc0f7c94ef2bd06c72072532bd0fa0be096fa4b7600189d6e4c337c5611014c88666d271df5d1a"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+Ответ API: {"success":true,"user":{"email":"stukalov85682@ya.ru","name":"Dasha"}}
+Пользователь успешно удален

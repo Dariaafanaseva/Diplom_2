@@ -1,0 +1,3 @@
+Create user response: {"success":true,"user":{"email":"pphdng@spwzn.ru","name":"kkiefl"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3NWM1OWVkMjgwMDAxYjUxYzFiNiIsImlhdCI6MTczMjQ3NDMwOSwiZXhwIjoxNzMyNDc1NTA5fQ.2UMJgP3zm9Yi-bl2Fakamtj5c5s2TT5jvZa4exeKoLI","refreshToken":"4925d36939356c577745a0d0ebd4b672642ba379eac94bfcf608261724cb5db7d39e8fb71fb844c0"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+Пользователь успешно удален

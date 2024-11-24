@@ -1,0 +1,4 @@
+Create user response: {"success":true,"user":{"email":"tquril@cxbaw.ru","name":"kmrtvg"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3MGM4OWVkMjgwMDAxYjUxYzEwNyIsImlhdCI6MTczMjQ3MzAzMiwiZXhwIjoxNzMyNDc0MjMyfQ.nmNjSdAg6yJWi9QZcYbxXqSsb1JoYT8OLL1GNrLOWv4","refreshToken":"bae1560c21086d632a54997b96b034b47943100cf44317c53504defa759505abb9e130d06a03a407"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+Ответ API: {"success":false,"message":"User with such email already exists"}
+Пользователь успешно удален

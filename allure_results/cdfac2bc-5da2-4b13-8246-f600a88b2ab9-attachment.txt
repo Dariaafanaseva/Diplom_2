@@ -1,0 +1,4 @@
+Create user response: {"success":true,"user":{"email":"qrcvnu@tgkpx.ru","name":"brnuwl"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3Njc5OWVkMjgwMDAxYjUxYzFkOSIsImlhdCI6MTczMjQ3NDQ4OSwiZXhwIjoxNzMyNDc1Njg5fQ.NNPCipZHsFVDKVwuotdxmQQalyFuSaufBlQZwJwxlCI","refreshToken":"7b899f754c07cb2e16b7304d4e1f5434a40a69c3e77ac9a33d8c3e819d2efe784b5eda116a8caef9"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+{"success":true,"user":{"email":"qrcvnu@tgkpx.ru","name":"brnuwl"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3Njc5OWVkMjgwMDAxYjUxYzFkOSIsImlhdCI6MTczMjQ3NDQ4OSwiZXhwIjoxNzMyNDc1Njg5fQ.NNPCipZHsFVDKVwuotdxmQQalyFuSaufBlQZwJwxlCI","refreshToken":"7b899f754c07cb2e16b7304d4e1f5434a40a69c3e77ac9a33d8c3e819d2efe784b5eda116a8caef9"}
+Пользователь успешно удален
