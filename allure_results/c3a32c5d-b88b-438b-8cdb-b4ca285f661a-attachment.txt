@@ -1,0 +1,3 @@
+Create user response: {"success":true,"user":{"email":"lniyot@hdsrx.ru","name":"kisfjc"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3NTY4OWVkMjgwMDAxYjUxYzE5YSIsImlhdCI6MTczMjQ3NDIxNiwiZXhwIjoxNzMyNDc1NDE2fQ.CIbL4NONGf40kCCXuxnicdZj3zZhHiWO_hvKsInpfbQ","refreshToken":"80c9139fbc3e8f51023d96d8fc47f6d498dcdb2afce9bac8078508abd5ee79c9eb67c65ebfe7dce8"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+Пользователь успешно удален

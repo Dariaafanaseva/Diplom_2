@@ -1,0 +1,3 @@
+Create user response: {"success":true,"user":{"email":"hnoeqf@smcru.ru","name":"aibmbn"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3MGRmOWVkMjgwMDAxYjUxYzExOCIsImlhdCI6MTczMjQ3MzA1NSwiZXhwIjoxNzMyNDc0MjU1fQ.-2odkL99Sduj3FrCOVWIPr5Md36YtfxqXkkVwmpu1oo","refreshToken":"60f818be1ea7b398846253b840ef5e9f67810f4e262edabfdb795e41b5d1d0a0502bfd274d96494a"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+Пользователь успешно удален

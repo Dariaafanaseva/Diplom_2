@@ -16,7 +16,7 @@ class TestCreateUser:
         assert response.status_code == 403 and response.json()['message'] == EXISTING_USER_MESSAGE
 
     @allure.title("Создание пользователя, заполняя не все обязательные поля")
-    @allure.description("Проверка невозможности создания курьера, если не передать в запрос пароль")
+    @allure.description("Проверка невозможности создания пользователя, если не передать в запрос пароль")
     def test_create_user_without_password(self, user_data, user_methods):
         response = user_data[1]
         print(response.text)

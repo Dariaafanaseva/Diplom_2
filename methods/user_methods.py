@@ -26,7 +26,7 @@ class UserMethods:
         return response
 
     @allure.step("Изменение данных пользователя без авторизации")
-    def patch_user_without_authorisation(self, user_data):
+    def patch_user_without_authorisation(self):
         response = requests.patch(f'{CHANGE_USER_DATA_URL}',
                                   json=USER_DATA_FOR_PATCH)
         return response

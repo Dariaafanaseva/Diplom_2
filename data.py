@@ -15,8 +15,8 @@ INCORRECT_USER_DATA = {
 "email": "Stukalo@ya.ru",
 "password": "ytrewq"}
 
-USER_DATA_FOR_PATCH = {"email": "Stukaly@ya.ru",
-                                "name": "Daxxa"}
+USER_DATA_FOR_PATCH = {"email": "Stukalov85633@ya.ru",
+                                "name": "Masha"}
 
 EXISTING_USER = {
 "email": "AfanasevaDaria@ya.ru",
@@ -32,5 +32,6 @@ NO_REQUIRED_FIELD_MESSAGE = 'Email, password and name are required fields'
 INCORRECT_DATA_FOR_LOGIN_MESSAGE = 'email or password are incorrect'
 CHANGE_USER_DATA_NO_AUTHORISATION = 'You should be authorised'
 MAKE_ORDER_NO_INGREDIENTS = 'Ingredient ids must be provided'
+GET_ORDERS_NO_AUTHORISATION = 'You should be authorised'
 
 

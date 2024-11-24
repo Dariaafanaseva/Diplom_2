@@ -1,0 +1,4 @@
+Create user response: {"success":true,"user":{"email":"snuvrn@jzame.ru","name":"vmmrwp"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3NWQzOWVkMjgwMDAxYjUxYzFiZSIsImlhdCI6MTczMjQ3NDMyMywiZXhwIjoxNzMyNDc1NTIzfQ.um_IhsQ_hsWLFwkLFxEwxjltu1F6oRf6e2_xN3Xabtk","refreshToken":"d0d01f313e43b9b7c7ea2a9429e59d8c098b8a9600043a59d9ee241b006217c566044c48693ae82b"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+{"success":false,"message":"Email, password and name are required fields"}
+Пользователь успешно удален

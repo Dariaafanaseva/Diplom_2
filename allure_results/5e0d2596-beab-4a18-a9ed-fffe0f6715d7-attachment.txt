@@ -1,0 +1,4 @@
+Create user response: {"success":true,"user":{"email":"xzanab@blhpn.ru","name":"xucfcv"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3MGNkOWVkMjgwMDAxYjUxYzEwZCIsImlhdCI6MTczMjQ3MzAzNywiZXhwIjoxNzMyNDc0MjM3fQ.3oNSqc7RzHG2hpKq31lc9NQGkG46lYeAGfuXWt-w4Dc","refreshToken":"23316ef5bfab63f0426ea09e322e1330b4af231dafd0bb5a70054f0a13f62543aa75b0164c535cb3"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+Ответ API: {"success":false,"message":"You should be authorised"}
+Пользователь успешно удален

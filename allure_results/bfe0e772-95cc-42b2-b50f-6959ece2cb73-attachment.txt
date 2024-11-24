@@ -1,0 +1,4 @@
+Create user response: {"success":true,"user":{"email":"zmassw@gfbqi.ru","name":"curtyg"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3MGY5OWVkMjgwMDAxYjUxYzEyMSIsImlhdCI6MTczMjQ3MzA4MSwiZXhwIjoxNzMyNDc0MjgxfQ.rVJJaHCxUNWG5WO89feMxSXtIbhbmgOk0-UMvr1RJFE","refreshToken":"de854f3bb2084902acb2675744cde139949ab8cc977d4bb492b425b4d881bb985a1359432db98634"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+{"success":false,"message":"Email, password and name are required fields"}
+Пользователь успешно удален

@@ -22,3 +22,11 @@ class OrderMethods:
                     first_ingredient = ingredient_ids[0]
                     last_ingredient = ingredient_ids[-1]
                     return {"ingredients": [first_ingredient, last_ingredient]}
+
+    @allure.step("Получение заказа пользователя")
+    def get_user_orders(self, auth_header=None):
+        headers = {}
+        if auth_header:
+            headers['Authorization'] = auth_header
+        response = requests.get(f'{ORDER_URL}', headers=headers)
+        return response

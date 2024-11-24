@@ -11,7 +11,7 @@ class TestChangeUserData:
 
     @allure.title("Изменение данных пользователя без авторизации")
     @allure.description("Проверка успешного изменения данных пользователя без авторизации")
-    def test_change_user_data_without_authorisation(self, user_data, user_methods):
-        response = user_methods.patch_user_without_authorisation(user_data)
+    def test_change_user_data_without_authorisation(self, user_methods):
+        response = user_methods.patch_user_without_authorisation()
         print("Ответ API:", response.text)
         assert response.status_code == 401 and response.json()['message'] == CHANGE_USER_DATA_NO_AUTHORISATION

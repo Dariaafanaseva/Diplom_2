@@ -1,0 +1,4 @@
+Create user response: {"success":true,"user":{"email":"bsphny@gsrbm.ru","name":"ekxnqr"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDM3NTdlOWVkMjgwMDAxYjUxYzFhNiIsImlhdCI6MTczMjQ3NDIzOCwiZXhwIjoxNzMyNDc1NDM4fQ.iuj0QYOfdcsc9ai11yDgsw-GO7NLYq8-uUnoQQLKtZo","refreshToken":"0656b7ddb243cf1a59e834f0aac14ade933f2d900a704da2e53c1f402ca673d9feeda63ca20c2309"}
+no password response: {"success":false,"message":"Email, password and name are required fields"}
+{"success":false,"message":"Email, password and name are required fields"}
+Пользователь успешно удален
